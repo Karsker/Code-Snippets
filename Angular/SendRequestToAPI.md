@@ -1,3 +1,5 @@
+# Sending HTTP Requests in Angular
+
 1. Import `HttpClient` service.
 ```
 import { HttpClient } from '@angular/common/http';
